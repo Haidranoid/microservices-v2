@@ -1,0 +1,4 @@
+config JAVA_HOME
+config PATH C:\Program Files\Java\jdk-17\bin
+
+> mvnw.cmd install
